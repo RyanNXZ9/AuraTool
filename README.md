@@ -2,6 +2,14 @@
 
 [Português (Brasil)](#português-brasil) · [English](#english) · [Releases](../../releases) · [Discord](https://discord.gg/er49sMEQ48)
 
+## Prévias / Screenshots
+
+| Perfil / Profile | Aparência / Appearance | Insígnias / Badges |
+| --- | --- | --- |
+| [![Perfil personalizado / Customized profile](docs/screenshots/profile.png)](docs/screenshots/profile.png) | [![Painel de aparência / Appearance panel](docs/screenshots/appearance.png)](docs/screenshots/appearance.png) | [![Seletor de insígnias / Badge picker](docs/screenshots/badges.png)](docs/screenshots/badges.png) |
+
+Clique em uma captura para ampliar. / Click a screenshot to enlarge it.
+
 ## Português (Brasil)
 
 O Aura Tool é um plugin para o Vencord que personaliza a aparência do seu perfil no Discord para quem está usando esse cliente. As alterações são locais. Outros membros continuam vendo o perfil real da sua conta. Insígnias, conexões e cosméticos adicionados pelo plugin são elementos visuais e não mudam assinaturas, conquistas nem contas vinculadas no Discord.
